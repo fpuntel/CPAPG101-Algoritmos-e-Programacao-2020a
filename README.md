@@ -1,7 +1,9 @@
 # CPAPG101-Algoritmos-e-Programacao-2020a
 
 Primeiro semestre de 2020
+
 Professor: Fernando Emilio Puntel
+
 Carga horário: 90ha
 Horários: 
  - Quartas: 19:00-23:00
