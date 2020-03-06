@@ -13,5 +13,5 @@ Horários:
  - Quintas: 21:00-23:00
 
 ## Objetivo do repositório
-Neste repositório você irá encontrar materias e exercícios realizados em sala de aula.
+Neste repositório você irá encontrar materiais da disciplina e exercícios realizados em sala de aula.
 
