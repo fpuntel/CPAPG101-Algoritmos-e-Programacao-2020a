@@ -1,9 +1,10 @@
 #include <stdio.h>
 
+// Primeiro algoritmo com variável
+// UFSM - POLI
+
 int main(){
     int idade;
-    char sexo;
-    float peso;
 
     idade = 50;
 
