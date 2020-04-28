@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/*
+Faça um algoritmo que realize as seguintes conversões:
+Quilogramas (Kg) para Gramas (g).
+Gramas (g) para Quilogramas (Kg).
+Ao final, apresente o resultado utilizando a função printf();
+*/
+
+
 int main(){
 
     float Kg, g;
