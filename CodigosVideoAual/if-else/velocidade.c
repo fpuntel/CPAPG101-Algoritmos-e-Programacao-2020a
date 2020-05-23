@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+Desenvolva um programa em C que leia a velocidade atual de veículo e verifique:
+- Se a velocidade for maior que 80, mostre a seguinte mensagem: “VEÍCULO MULTADO”.
+- Senão o carro está em uma velocidade segura. 
+*/
+
 int main(){
     int velocidade;
 
