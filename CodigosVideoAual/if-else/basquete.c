@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+Um grupo de pesquisa pretende realizar um estudo com jogadores de basquete. Para participar do estudo o jogador deve ter as seguintes características: ter mais de 20 anos E ter mais de 1,95m de altura.
+Faça um algoritmo que receba as informações necessárias e apresente na tela se o jogador poderá ou não participar do estudo.
+*/
+
 int main(){
     int idade;
     float altura;
