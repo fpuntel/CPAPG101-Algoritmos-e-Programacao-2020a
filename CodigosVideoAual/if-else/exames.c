@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+Um hospital só permite que um paciente leve um acompanhante para realização de exames se o paciente tiver mais de 65 anos OU menos que 18 anos.
+Faça um algoritmo que leia a idade do paciente e informe se o paciente possui ou não direito de um acompanhante.
+*/
+
 int main(){
     int idade;
 
